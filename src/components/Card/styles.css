@@ -40,8 +40,9 @@
     background-size: 100%;
     color: #000;
     transform: rotateY(180deg);
-    height: auto;
+    height: 100%;
     border-radius: 15px;
+    object-fit: contain;
 
     
 }
