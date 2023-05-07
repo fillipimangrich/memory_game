@@ -60,13 +60,13 @@ export function Grid({cards}: GridProps){
                 setMatches(matches+1)
                 if (matches === 5){
                     if (matches/moves >= 0.75){
-                        setMemoryString('75% - 100%: Excelente')
+                        setMemoryString('75% - 100% Excelente')
                     }else if(matches/moves >= 0.5){
-                        setMemoryString('50% - 75%: Bom')
+                        setMemoryString('50% - 75% Bom')
                     }else if(matches/moves >= 0.25){
-                        setMemoryString('25% - 50%: Esquecido')
+                        setMemoryString('25% - 50% Esquecido')
                     }else{
-                        setMemoryString('0% - 25%: Amnésia')
+                        setMemoryString('0% - 25% Amnésia')
                     }
                 }
                 
