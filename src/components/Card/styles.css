@@ -1,6 +1,7 @@
 .card{
+    max-height: 180px;
+    min-height: 100px;
     height: 180px;
-    width: 180px;
 }
 
 .card_content{
