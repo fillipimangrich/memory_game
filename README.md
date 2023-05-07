@@ -18,7 +18,7 @@ Para jogar o jogo, basta clicar em uma carta para virá-la. Selecione outra cart
 
 1. Clone o repositório para o seu computador:
 ```
-git clone https://github.com/seunome/jogo-da-memoria.git
+git clone https://github.com/fillipimangrich/memory_game
 ```
 
 2. Instale as dependências do projeto:
