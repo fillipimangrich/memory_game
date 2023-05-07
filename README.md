@@ -6,8 +6,11 @@ Este projeto é um jogo da memória simples implementado usando React e TypeScri
 
 O jogo é composto por um tabuleiro de cartas viradas para baixo. Cada carta tem um par correspondente escondido em algum lugar do tabuleiro. O objetivo do jogo é encontrar todos os pares de cartas correspondentes, virando duas cartas por vez. Quando duas cartas correspondentes são viradas, elas permanecem viradas para cima e você ganha pontos. Se duas cartas que não correspondem forem viradas, elas serão viradas novamente para baixo e você perderá pontos.
 
-Para jogar o jogo, basta clicar em uma carta para virá-la. Selecione outra carta para ver se as duas cartas correspondem. Se elas corresponderem, elas permanecerão viradas para cima e você ganhará pontos. Se elas não corresponderem, elas serão viradas novamente para baixo e você perderá pontos. O jogo termina quando todas as cartas correspondentes forem encontradas.
+Para jogar o jogo, basta clicar em uma carta para virá-la. Selecione outra carta para ver se as duas cartas correspondem. Se elas corresponderem, elas permanecerão viradas para cima e você ganhará pontos. O jogo termina quando todas as cartas correspondentes forem encontradas.
 
+
+Link do jogo:
+https://startling-gecko-9896c9.netlify.app/
 ## Tecnologias utilizadas
 
 - React
@@ -15,6 +18,7 @@ Para jogar o jogo, basta clicar em uma carta para virá-la. Selecione outra cart
 - CSS
 
 ## Como executar o projeto
+
 
 1. Clone o repositório para o seu computador:
 ```
