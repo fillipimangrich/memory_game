@@ -1,0 +1,26 @@
+export const cards = [
+    {
+        id:'0',
+        back:'public/images/arch.png'
+    },
+    {
+        id:'1',
+        back:'public/images/debian.png'
+    },
+    {
+        id:'2',
+        back:'public/images/gnu.png'
+    },
+    {
+        id:'3',
+        back:'public/images/kali.png'
+    },
+    {
+        id:'4',
+        back:'public/images/redhat.png'
+    },
+    {
+        id:'5',
+        back:'public/images/ubuntu.png'
+    }
+]
